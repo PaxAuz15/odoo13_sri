@@ -1,0 +1,248 @@
+2020-01-21 16:09:33,902 107532 INFO ? odoo: Odoo version 13.0-20200121 
+2020-01-21 16:09:33,903 107532 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-01-21 16:09:33,903 107532 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\lucho\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-01-21 16:09:33,903 107532 INFO ? odoo: database: openpg@localhost:5432 
+2020-01-21 16:09:35,700 107532 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-01-21 16:09:37,282 107532 INFO ? odoo.service.server: Initiating shutdown 
+2020-01-21 16:09:37,282 107532 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2020-01-21 16:09:38,979 93148 INFO ? odoo: Odoo version 13.0-20200121 
+2020-01-21 16:09:38,979 93148 INFO ? odoo: Using configuration file at C:\Program Files (x86)\Odoo 13.0\server\odoo.conf 
+2020-01-21 16:09:38,979 93148 INFO ? odoo: addons paths: ['C:\\Program Files (x86)\\Odoo 13.0\\server\\odoo\\addons', 'c:\\users\\lucho\\appdata\\local\\openerp s.a\\odoo\\addons\\13.0', 'c:\\program files (x86)\\odoo 13.0\\server\\odoo\\addons'] 
+2020-01-21 16:09:38,979 93148 INFO ? odoo: database: openpg@localhost:5432 
+2020-01-21 16:09:39,249 93148 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files (x86)\Odoo 13.0\thirdparty\wkhtmltopdf.exe 
+2020-01-21 16:09:40,259 93148 INFO ? odoo.service.server: HTTP service (werkzeug) running on PAXAUZ-PC:8069 
+2020-01-21 16:11:12,508 93148 INFO ? odoo.http: HTTP Configuring static files 
+2020-01-21 16:11:12,549 93148 INFO test_ecuador_10 odoo.sql_db: Connection to the database failed 
+2020-01-21 16:11:12,549 93148 INFO test_ecuador_10 odoo.http: Generating nondb routing 
+2020-01-21 16:11:12,573 93148 INFO test_ecuador_10 werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:12] "GET / HTTP/1.1" 303 - 0 0.000 0.056
+2020-01-21 16:11:12,646 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:12] "GET /web HTTP/1.1" 303 - 2 0.008 0.061
+2020-01-21 16:11:13,182 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/database/selector HTTP/1.1" 200 - 2 0.005 0.224
+2020-01-21 16:11:13,283 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,520 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/index.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,527 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/button.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,529 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/util.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,529 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/alert.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,537 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/popper/popper.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,600 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/carousel.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,842 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/collapse.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,848 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,851 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,857 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,866 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/popover.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:13,918 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:13] "GET /web/static/lib/bootstrap/js/scrollspy.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:14,158 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:14] "GET /web/static/lib/bootstrap/js/tab.js HTTP/1.1" 200 - - - -
+2020-01-21 16:11:14,161 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:11:14] "GET /web/static/src/img/logo2.png HTTP/1.1" 200 - - - -
+2020-01-21 16:11:56,336 93148 INFO None odoo.service.db: Create database `development_testing`. 
+2020-01-21 16:11:59,225 93148 INFO development_testing odoo.modules.loading: loading 1 modules... 
+2020-01-21 16:11:59,402 93148 INFO development_testing odoo.modules.registry: module base: creating or updating database tables 
+2020-01-21 16:11:59,783 93148 INFO development_testing odoo.models: Computing parent_path for table ir_ui_menu... 
+2020-01-21 16:12:00,922 93148 INFO development_testing odoo.models: Computing parent_path for table res_partner_category... 
+2020-01-21 16:12:01,628 93148 INFO development_testing odoo.models: Storing computed values of relation_field_id 
+2020-01-21 16:12:01,628 93148 INFO development_testing odoo.models: Storing computed values of related_field_id 
+2020-01-21 16:12:01,994 93148 INFO development_testing odoo.models: Storing computed values of model_name 
+2020-01-21 16:12:02,190 93148 INFO development_testing odoo.models: Storing computed values of cron_name 
+2020-01-21 16:12:02,297 93148 INFO development_testing odoo.models: Storing computed values of global 
+2020-01-21 16:12:02,500 93148 INFO development_testing odoo.models: Storing computed values of menus_by_module 
+2020-01-21 16:12:02,500 93148 INFO development_testing odoo.models: Storing computed values of reports_by_module 
+2020-01-21 16:12:02,500 93148 INFO development_testing odoo.models: Storing computed values of views_by_module 
+2020-01-21 16:12:02,780 93148 INFO development_testing odoo.models: Storing computed values of display_name 
+2020-01-21 16:12:02,780 93148 INFO development_testing odoo.models: Storing computed values of partner_share 
+2020-01-21 16:12:02,780 93148 INFO development_testing odoo.models: Storing computed values of commercial_partner_id 
+2020-01-21 16:12:02,780 93148 INFO development_testing odoo.models: Storing computed values of commercial_company_name 
+2020-01-21 16:12:02,839 93148 INFO development_testing odoo.models: Storing computed values of sanitized_acc_number 
+2020-01-21 16:12:02,884 93148 INFO development_testing odoo.models: Storing computed values of decimal_places 
+2020-01-21 16:12:02,951 93148 INFO development_testing odoo.models: Storing computed values of logo_web 
+2020-01-21 16:12:02,951 93148 INFO development_testing odoo.models: Storing computed values of email 
+2020-01-21 16:12:02,951 93148 INFO development_testing odoo.models: Storing computed values of phone 
+2020-01-21 16:12:03,037 93148 INFO development_testing odoo.models: Storing computed values of share 
+2020-01-21 16:12:04,404 93148 INFO development_testing odoo.modules.loading: loading base/data/res.lang.csv 
+2020-01-21 16:12:04,578 93148 INFO development_testing odoo.modules.loading: loading base/data/res_lang_data.xml 
+2020-01-21 16:12:04,613 93148 INFO development_testing odoo.modules.loading: loading base/data/res_partner_data.xml 
+2020-01-21 16:12:04,779 93148 INFO development_testing odoo.modules.loading: loading base/data/res_company_data.xml 
+2020-01-21 16:12:04,816 93148 INFO development_testing odoo.modules.loading: loading base/data/res_users_data.xml 
+2020-01-21 16:12:05,067 93148 INFO development_testing odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2020-01-21 16:12:05,084 93148 INFO development_testing odoo.modules.loading: loading base/data/res_currency_data.xml 
+2020-01-21 16:12:05,468 93148 INFO development_testing odoo.modules.loading: loading base/data/res_country_data.xml 
+2020-01-21 16:12:07,254 93148 INFO development_testing odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2020-01-21 16:12:07,390 93148 INFO development_testing odoo.modules.loading: loading base/security/base_groups.xml 
+2020-01-21 16:12:07,563 93148 INFO development_testing odoo.modules.loading: loading base/security/base_security.xml 
+2020-01-21 16:12:07,727 93148 INFO development_testing odoo.modules.loading: loading base/views/base_menus.xml 
+2020-01-21 16:12:07,876 93148 INFO development_testing odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2020-01-21 16:12:07,939 93148 INFO development_testing odoo.modules.loading: loading base/views/res_config_views.xml 
+2020-01-21 16:12:07,975 93148 INFO development_testing odoo.modules.loading: loading base/data/res.country.state.csv 
+2020-01-21 16:12:09,457 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2020-01-21 16:12:09,767 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2020-01-21 16:12:09,819 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2020-01-21 16:12:09,921 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2020-01-21 16:12:09,987 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2020-01-21 16:12:10,049 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_model_views.xml 
+2020-01-21 16:12:10,499 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2020-01-21 16:12:10,574 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2020-01-21 16:12:10,639 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2020-01-21 16:12:10,711 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_translation_views.xml 
+2020-01-21 16:12:10,812 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2020-01-21 16:12:10,892 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2020-01-21 16:12:11,031 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_default_views.xml 
+2020-01-21 16:12:11,096 93148 INFO development_testing odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2020-01-21 16:12:11,111 93148 INFO development_testing odoo.modules.loading: loading base/report/ir_model_report.xml 
+2020-01-21 16:12:11,122 93148 INFO development_testing odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2020-01-21 16:12:11,148 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2020-01-21 16:12:11,208 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2020-01-21 16:12:11,242 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_module_views.xml 
+2020-01-21 16:12:11,429 93148 INFO development_testing odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2020-01-21 16:12:11,539 93148 INFO development_testing odoo.modules.loading: loading base/data/ir_module_module.xml 
+2020-01-21 16:12:11,666 93148 INFO development_testing odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2020-01-21 16:12:11,676 93148 INFO development_testing odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2020-01-21 16:12:11,706 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2020-01-21 16:12:11,740 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2020-01-21 16:12:11,767 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2020-01-21 16:12:11,800 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2020-01-21 16:12:11,847 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2020-01-21 16:12:11,874 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2020-01-21 16:12:11,910 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_update_translations_views.xml 
+2020-01-21 16:12:11,940 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2020-01-21 16:12:11,978 93148 INFO development_testing odoo.modules.loading: loading base/wizard/base_document_layout_views.xml 
+2020-01-21 16:12:12,021 93148 INFO development_testing odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2020-01-21 16:12:12,032 93148 INFO development_testing odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2020-01-21 16:12:12,063 93148 INFO development_testing odoo.modules.loading: loading base/views/res_company_views.xml 
+2020-01-21 16:12:12,135 93148 INFO development_testing odoo.modules.loading: loading base/views/res_lang_views.xml 
+2020-01-21 16:12:12,237 93148 INFO development_testing odoo.modules.loading: loading base/views/res_partner_views.xml 
+2020-01-21 16:12:12,629 93148 INFO development_testing odoo.modules.loading: loading base/views/res_bank_views.xml 
+2020-01-21 16:12:12,734 93148 INFO development_testing odoo.modules.loading: loading base/views/res_country_views.xml 
+2020-01-21 16:12:12,857 93148 INFO development_testing odoo.modules.loading: loading base/views/res_currency_views.xml 
+2020-01-21 16:12:12,977 93148 INFO development_testing odoo.modules.loading: loading base/views/res_users_views.xml 
+2020-01-21 16:12:13,328 93148 INFO development_testing odoo.modules.loading: loading base/views/ir_property_views.xml 
+2020-01-21 16:12:13,394 93148 INFO development_testing odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2020-01-21 16:12:13,422 93148 INFO development_testing odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2020-01-21 16:12:13,487 93148 INFO development_testing odoo.modules.loading: loading base/views/onboarding_views.xml 
+2020-01-21 16:12:13,570 93148 INFO development_testing odoo.modules.loading: loading base/security/ir.model.access.csv 
+2020-01-21 16:12:13,975 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base: loading base translation file es for language es_EC 
+2020-01-21 16:12:13,981 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base\i18n\es.po 
+2020-01-21 16:12:14,742 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:14,749 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base\i18n\es_EC.po 
+2020-01-21 16:12:15,348 93148 INFO development_testing odoo.modules.loading: 1 modules loaded in 16.12s, 0 queries 
+2020-01-21 16:12:15,407 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base: loading base translation file es for language es_EC 
+2020-01-21 16:12:15,408 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base\i18n\es.po 
+2020-01-21 16:12:16,164 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:16,164 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base\i18n\es_EC.po 
+2020-01-21 16:12:16,692 93148 INFO development_testing odoo.modules.loading: updating modules list 
+2020-01-21 16:12:16,692 93148 INFO development_testing odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via 127.0.0.1 
+2020-01-21 16:12:17,457 93148 INFO development_testing odoo.modules.loading: loading 7 modules... 
+2020-01-21 16:12:17,650 93148 INFO development_testing odoo.modules.registry: module web: creating or updating database tables 
+2020-01-21 16:12:19,151 93148 INFO development_testing odoo.modules.loading: loading web/security/ir.model.access.csv 
+2020-01-21 16:12:19,158 93148 INFO development_testing odoo.modules.loading: loading web/views/webclient_templates.xml 
+2020-01-21 16:12:19,627 93148 INFO development_testing odoo.modules.loading: loading web/views/report_templates.xml 
+2020-01-21 16:12:19,823 93148 INFO development_testing odoo.modules.loading: loading web/data/report_layout.xml 
+2020-01-21 16:12:19,852 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web: loading base translation file es for language es_EC 
+2020-01-21 16:12:19,857 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web\i18n\es.po 
+2020-01-21 16:12:19,973 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:19,978 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web\i18n\es_EC.po 
+2020-01-21 16:12:20,587 93148 INFO development_testing odoo.modules.registry: module base_import: creating or updating database tables 
+2020-01-21 16:12:22,565 93148 INFO development_testing odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2020-01-21 16:12:22,683 93148 INFO development_testing odoo.modules.loading: loading base_import/views/base_import_templates.xml 
+2020-01-21 16:12:22,756 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base_import: loading base translation file es for language es_EC 
+2020-01-21 16:12:22,762 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base_import\i18n\es.po 
+2020-01-21 16:12:22,828 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base_import: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:22,834 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base_import\i18n\es_EC.po 
+2020-01-21 16:12:23,018 93148 INFO development_testing odoo.modules.registry: module web_diagram: creating or updating database tables 
+2020-01-21 16:12:23,028 93148 INFO development_testing odoo.modules.loading: loading web_diagram/views/web_diagram_templates.xml 
+2020-01-21 16:12:23,086 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_diagram: loading base translation file es for language es_EC 
+2020-01-21 16:12:23,092 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_diagram\i18n\es.po 
+2020-01-21 16:12:23,112 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_diagram: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:23,118 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_diagram\i18n\es_EC.po 
+2020-01-21 16:12:23,440 93148 INFO development_testing odoo.modules.registry: module web_editor: creating or updating database tables 
+2020-01-21 16:12:23,680 93148 INFO development_testing odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2020-01-21 16:12:23,712 93148 INFO development_testing odoo.modules.loading: loading web_editor/views/editor.xml 
+2020-01-21 16:12:24,031 93148 INFO development_testing odoo.modules.loading: loading web_editor/views/snippets.xml 
+2020-01-21 16:12:24,081 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_editor: loading base translation file es for language es_EC 
+2020-01-21 16:12:24,088 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_editor\i18n\es.po 
+2020-01-21 16:12:24,151 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_editor: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:24,157 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_editor\i18n\es_EC.po 
+2020-01-21 16:12:24,314 93148 INFO development_testing odoo.modules.registry: module web_kanban_gauge: creating or updating database tables 
+2020-01-21 16:12:24,326 93148 INFO development_testing odoo.modules.loading: loading web_kanban_gauge/views/web_kanban_gauge_templates.xml 
+2020-01-21 16:12:24,389 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_kanban_gauge: loading base translation file es for language es_EC 
+2020-01-21 16:12:24,394 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_kanban_gauge\i18n\es.po 
+2020-01-21 16:12:24,415 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_kanban_gauge: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:24,421 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_kanban_gauge\i18n\es_EC.po 
+2020-01-21 16:12:24,590 93148 INFO development_testing odoo.modules.registry: module web_tour: creating or updating database tables 
+2020-01-21 16:12:24,633 93148 INFO development_testing odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2020-01-21 16:12:24,660 93148 INFO development_testing odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2020-01-21 16:12:24,687 93148 INFO development_testing odoo.modules.loading: loading web_tour/views/tour_templates.xml 
+2020-01-21 16:12:24,781 93148 INFO development_testing odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2020-01-21 16:12:24,835 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_tour: loading base translation file es for language es_EC 
+2020-01-21 16:12:24,841 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_tour\i18n\es.po 
+2020-01-21 16:12:24,860 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_tour: no translation for language es_EC 
+2020-01-21 16:12:24,873 93148 INFO development_testing odoo.modules.loading: 7 modules loaded in 7.42s, 0 queries 
+2020-01-21 16:12:25,095 93148 INFO development_testing odoo.modules.loading: Modules loaded. 
+2020-01-21 16:12:25,105 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base: loading base translation file es for language es_EC 
+2020-01-21 16:12:25,105 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base\i18n\es.po 
+2020-01-21 16:12:25,760 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:25,761 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base\i18n\es_EC.po 
+2020-01-21 16:12:26,161 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web: loading base translation file es for language es_EC 
+2020-01-21 16:12:26,161 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web\i18n\es.po 
+2020-01-21 16:12:26,257 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:26,257 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web\i18n\es_EC.po 
+2020-01-21 16:12:26,337 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base_import: loading base translation file es for language es_EC 
+2020-01-21 16:12:26,337 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base_import\i18n\es.po 
+2020-01-21 16:12:26,370 93148 INFO development_testing odoo.addons.base.models.ir_translation: module base_import: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:26,371 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\base_import\i18n\es_EC.po 
+2020-01-21 16:12:26,407 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_diagram: loading base translation file es for language es_EC 
+2020-01-21 16:12:26,407 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_diagram\i18n\es.po 
+2020-01-21 16:12:26,420 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_diagram: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:26,420 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_diagram\i18n\es_EC.po 
+2020-01-21 16:12:26,435 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_editor: loading base translation file es for language es_EC 
+2020-01-21 16:12:26,435 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_editor\i18n\es.po 
+2020-01-21 16:12:26,483 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_editor: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:26,483 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_editor\i18n\es_EC.po 
+2020-01-21 16:12:26,536 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_kanban_gauge: loading base translation file es for language es_EC 
+2020-01-21 16:12:26,536 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_kanban_gauge\i18n\es.po 
+2020-01-21 16:12:26,550 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_kanban_gauge: loading translation file (es_EC) for language es_EC 
+2020-01-21 16:12:26,550 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_kanban_gauge\i18n\es_EC.po 
+2020-01-21 16:12:26,562 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_tour: loading base translation file es for language es_EC 
+2020-01-21 16:12:26,563 93148 INFO development_testing odoo.tools.translate: loading C:\Program Files (x86)\Odoo 13.0\server\odoo\addons\web_tour\i18n\es.po 
+2020-01-21 16:12:26,578 93148 INFO development_testing odoo.addons.base.models.ir_translation: module web_tour: no translation for language es_EC 
+2020-01-21 16:12:26,916 93148 INFO development_testing odoo.addons.base.models.res_users: Login successful for db:development_testing login:testing from 127.0.0.1 
+2020-01-21 16:12:26,943 93148 INFO development_testing odoo.modules.registry: Registry changed, signaling through the database 
+2020-01-21 16:12:26,978 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:26] "POST /web/database/create HTTP/1.1" 303 - 23939 14.596 16.177
+2020-01-21 16:12:27,292 93148 INFO development_testing odoo.addons.base.models.ir_http: Generating routing map for key None 
+2020-01-21 16:12:34,829 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:34] "GET /web/ HTTP/1.1" 200 - 300 0.172 7.374
+2020-01-21 16:12:34,858 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:34] "GET /web/content/252-ff8dfce/web.assets_common.css HTTP/1.1" 200 - 5 0.002 0.014
+2020-01-21 16:12:35,157 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:35] "GET /web/webclient/load_menus/4ec3ee1342bbcdf713ca8aac56647d85fdded461 HTTP/1.1" 200 - 1 0.000 0.003
+2020-01-21 16:12:35,163 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:35] "GET /web/content/253-a578995/web.assets_backend.css HTTP/1.1" 200 - 5 0.000 0.018
+2020-01-21 16:12:35,517 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:35] "GET /web/content/254-ff8dfce/web.assets_common.js HTTP/1.1" 200 - 5 0.002 0.349
+2020-01-21 16:12:35,832 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:35] "GET /web/content/255-a578995/web.assets_backend.js HTTP/1.1" 200 - 5 0.003 0.359
+2020-01-21 16:12:36,269 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:36] "GET /web/webclient/qweb/39f05d51ea816e0933444ba0facd3bfa741575f0?mods=base,web,base_import,web_diagram,web_editor,web_kanban_gauge,web_tour HTTP/1.1" 200 - 1 0.001 0.016
+2020-01-21 16:12:36,543 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:36] "GET /web/image/res.company/1/favicon/ HTTP/1.1" 200 - 15 0.030 0.010
+2020-01-21 16:12:37,442 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:37] "GET /web/webclient/translations/dfb3056a35fc7cfff6f747e78dccd4d1cd503b0d?mods=base%2Cweb%2Cbase_import%2Cweb_diagram%2Cweb_editor%2Cweb_kanban_gauge%2Cweb_tour&lang=es_EC HTTP/1.1" 200 - 4 0.011 0.025
+2020-01-21 16:12:38,719 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:38] "GET /web/webclient/locale/es_EC HTTP/1.1" 200 - 1 0.000 0.012
+2020-01-21 16:12:38,963 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:38] "POST /web/dataset/call_kw/res.users/read HTTP/1.1" 200 - 2 0.001 0.003
+2020-01-21 16:12:39,075 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:39] "GET /web/image?model=res.users&field=image_128&id=2 HTTP/1.1" 200 - 24 0.019 0.014
+2020-01-21 16:12:39,446 93148 INFO development_testing odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2020-01-21 16:12:39,490 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:39] "POST /web/action/load HTTP/1.1" 200 - 42 0.042 0.040
+2020-01-21 16:12:39,571 93148 INFO development_testing odoo.addons.base.models.ir_attachment: filestore gc 249 checked, 0 removed 
+2020-01-21 16:12:39,600 93148 INFO development_testing odoo.addons.base.models.ir_autovacuum: GC'd 0 user log entries 
+2020-01-21 16:12:39,602 93148 INFO development_testing odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2020-01-21 16:12:40,584 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:40] "POST /web/dataset/call_kw/ir.module.module/load_views HTTP/1.1" 200 - 97 0.098 0.070
+2020-01-21 16:12:41,772 93148 INFO development_testing werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:41] "POST /web/dataset/search_read HTTP/1.1" 200 - 5 0.005 0.007
+2020-01-21 16:12:42,608 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:42] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:42,909 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:42] "GET /base/static/img/icons/stock_barcode.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:42,913 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:42] "GET /account/static/description/icon.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:42,918 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:42] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,229 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,229 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/mrp_plm.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,233 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,539 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,545 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,563 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/hr_appraisal.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,789 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /hr_skills/static/description/icon.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,852 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /mass_mailing_sms/static/description/icon.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,856 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/project_forecast.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:43,870 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:43] "GET /base/static/img/icons/sale_ebay.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,103 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,163 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,165 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /base/static/img/icons/voip.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,178 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /base/static/img/icons/website_calendar.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,411 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /base/static/img/icons/marketing_automation.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,476 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /website_hr_recruitment/static/description/icon.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,487 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /repair/static/description/icon.png HTTP/1.1" 200 - - - -
+2020-01-21 16:12:44,505 93148 INFO ? werkzeug: 127.0.0.1 - - [21/Jan/2020 16:12:44] "GET /base/static/img/icons/web_mobile.png HTTP/1.1" 200 - - - -
